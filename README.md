@@ -1,4 +1,5 @@
 # Netdot-devs
+[github.com/netdotx42/Netdot-devs](https://github.com/netdotx42/Netdot-devs)
 
 Independent engineering studio for founders shipping AI, blockchain, and modern web products.
 
