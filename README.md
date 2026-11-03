@@ -1,9 +1,7 @@
 # Netdot-devs
-Our Dev-team landing page
 
-Engineering-led studio site for AI, blockchain and the modern web.
+Independent engineering studio for founders shipping AI, blockchain, and modern web products.
 
-```bash
-npm install
-npm run dev
-```
+We take a product from architecture to production: strategy, AI automation, Solana and Web3, DevOps, and delivery. Scoped, built, and handed over.
+
+Jazz FBrowne · Yusuf King
